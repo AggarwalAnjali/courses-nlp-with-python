@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Text mining with bag of words'
+description: 'In this chapter, you'll learn the basics of using the bag of words method for analyzing text data.'
 ---
 
 ## Example coding exercise
